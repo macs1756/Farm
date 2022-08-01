@@ -1044,10 +1044,7 @@ h2 span {
   transition: all 0.3s linear;
   background: linear-gradient(94.04deg,#30c917 1.24%,#279a13 98.27%);
 }
-.sybfooter__item-btn:hover{
-  transition: all 0.3s linear;
-  background: linear-gradient(94.04deg,#259e13 1.24%,#1f7710 98.27%);
-}
+
 
 
 
@@ -1454,6 +1451,13 @@ h2 span {
   .header__list-item:hover {
     font-weight: 500;
   }
+
+  .sybfooter__item-btn:hover {
+    transition: all 0.3s linear;
+    background: linear-gradient(94.04deg,#259e13 1.24%,#1f7710 98.27%);
+  }
+
+
 
   .initial__text-btn:hover {
     background: #FFB1D3;
